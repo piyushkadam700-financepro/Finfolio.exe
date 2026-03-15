@@ -1,2 +1,2 @@
 # Finfolio.exe
-Live:- https://github.com/piyushkadam700-financepro/Finfolio.exe/
+Live:-  http://piyushkadam700-financepro.github.io/Finfolio.exe
